@@ -10,7 +10,7 @@ public class BaseTest {
 
     @BeforeAll
     public static void init (){
-        baseUrl = BASE_URL;
+        baseUrl = "https://github.com/";
         startMaximized = true;
     }
 }
